@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6koB/y/BxY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Cursos\\Aplicaciones Web\\Projectos\\book-platform\\BookPlatform.API\\BookPlatform.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
